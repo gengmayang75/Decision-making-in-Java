@@ -1,0 +1,19 @@
+public class whileTest
+{
+public static void main(String args[])
+{
+int i = 5;
+while (i <= 15)
+{
+System.out.println(i);
+i = i+2;
+}
+}
+}
+Output:
+5
+7
+9
+11
+13
+15
